@@ -16,6 +16,7 @@ Sou o Isaque Borges Taioque, atualmente estudo na faculdade SPTECH e estou cursa
 - Spring Boot
 - MySQL
 - AWS
+- NodeJS
 
 ## 📫 Como Me Encontrar
 
