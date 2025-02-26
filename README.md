@@ -2,17 +2,19 @@
 
 ## Olá! 👋
 
-Sou o Isaque Borges Taioque, atualmente estudo na faculdade SPTECH e estou cursando Análise e Desenvolvimento de Sistemas no segundo semestre.
+Sou o Isaque Borges Taioque, atualmente estudo na faculdade SPTECH e estou cursando Análise e Desenvolvimento de Sistemas no terceiro semestre.
 
-## 🌱 Atualmente Aprendendo
+## 🌱 Conhecimentos:
 
-- Algoritmos por meio da linguagem de programção javaScript
-- Linguagem de programação Java
--  Banco de Dados Mysql
-- Documentação de projetos
-- Marcação de texto HTML e estilização CSS
-- Números e calculos binários
-- Máquina virtual 
+- Kubernetes
+- MacOs
+- Pipelines GitHub
+- JavaScript
+- HTML / CSS
+- Java
+- Spring Boot
+- MySQL
+- AWS
 
 ## 📫 Como Me Encontrar
 
