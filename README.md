@@ -1,8 +1,9 @@
 # Isaque Borges Taioque
 
-## Olá rede! 👋
+## Olá rede! 
 
-Sou o Isaque Borges Taioque, atualmente estudo na faculdade SPTECH e estou cursando Análise e Desenvolvimento de Sistemas no terceiro semestre, aqui abaixo estão alguns de meus conhecimentos sobre tecnologia:
+Me chamo Isaque Borges Taioque, atualmente, estou no terceiro semestre da minha graduação em Análise e Desenvolvimento de Sistemas, aprimorando habilidades em desenvolvimento, automação e engenharia de software.
+Aqui abaixo estão alguns de meus conhecimentos sobre tecnologia:
 
 ## 💻 Conhecimentos:
 
