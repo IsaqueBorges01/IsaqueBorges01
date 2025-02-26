@@ -1,13 +1,13 @@
 # Isaque Borges Taioque
 
-## Olá! 👋
+## Olá rede! 👋
 
 Sou o Isaque Borges Taioque, atualmente estudo na faculdade SPTECH e estou cursando Análise e Desenvolvimento de Sistemas no terceiro semestre, aqui abaixo estão alguns de meus conhecimentos sobre tecnologia:
 
-## 🌱 Conhecimentos:
+## 💻 Conhecimentos:
 
 - Kubernetes
-- MacOs
+- MacOs / Linux
 - Pipelines
 - GitHub
 - JavaScript
@@ -18,11 +18,11 @@ Sou o Isaque Borges Taioque, atualmente estudo na faculdade SPTECH e estou cursa
 - AWS
 - NodeJS
 
-## 📫 Como Me Encontrar
+## 📫 Como Me Encontrar:
 
 - email: isaque.taioque@sptech.school
 
-## 🤝 Contribuições
+## 🤝 Contribuições:
 
 Estou sempre aberto a colaborações e contribuições em projetos open-source. Caso tenha algum projeto interessante ou ideia para discutir, fique à vontade para entrar em contato comigo!
 
