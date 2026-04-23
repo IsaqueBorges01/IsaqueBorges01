@@ -2,22 +2,29 @@
 
 ## Olá rede! 
 
-Me chamo Isaque Borges Taioque, atualmente, estou no terceiro semestre da minha graduação em Análise e Desenvolvimento de Sistemas, aprimorando habilidades em desenvolvimento, automação e engenharia de software.
+Me chamo Isaque Borges Taioque, atualmente, estou no quinto semestre da minha graduação em Análise e Desenvolvimento de Sistemas, aprimorando habilidades em desenvolvimento, automação e engenharia de software.
 Aqui abaixo estão alguns de meus conhecimentos sobre tecnologia:
 
 ## 💻 Conhecimentos:
 
 - Kubernetes
-- MacOs / Linux
-- Pipelines
+- Pipeline - CI/CD
 - GitHub
 - JavaScript
-- HTML / CSS
+- React
+- React Native
+- Redis
+- Junit/Jest
+- RabbitMQ
+- NextJS
+- Axios
 - Java
 - Spring Boot
-- MySQL
-- AWS
+- MySQL / PostgreSQL
+- AWS (EC2, VPC, S3, etc)
 - NodeJS
+- HTML / CSS
+- MacOs / Linux
 
 ## 📫 Como Me Encontrar:
 
